@@ -2,7 +2,7 @@
 
 ## Can I become who I want to be?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+You are already who you are. Please question what aspects of your past have shaped the image  of who you would like to be instead of yourself. With that informed 
 
 ## Have you had a chance to answer the previous question?
 
