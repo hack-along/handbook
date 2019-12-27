@@ -1,2 +1,0 @@
-# Appreciative Scoring
-

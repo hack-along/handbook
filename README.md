@@ -4,7 +4,7 @@ description: Global sprints to co-create on planet earth
 
 # Hack-Along
 
-We’ve been conditioned to believe in the myth on natural competition: the survival of the fittest. In this view, each one of us struggles against all the others for scarce resources. The strongest ones survive and pass on their  genes, while the weak deserve to lose and die out. Outside of our family environment, this way of thinking seems to be reflected in in everything we do.
+We’ve been conditioned to believe in the myth of the survival of the fittest: In this view, each one of us struggles against all the others for scarce resources. The strongest ones survive and pass on their  genes, while the weak lose and die out. Outside of our family environment, this way of thinking seems to be reflected in in everything we do.
 
 However, nature is much more about collaboration than competition. The very concept of an ecosystem brings every piece of the puzzle in harmonious interconnection.
 
@@ -14,7 +14,7 @@ We need a fresh new modus-operandi which starts from a sharing and collaborative
 
 An hack-along is prescriptively non-prescriptive, so it is quite difficult to give a straight answer to this question.
 
-Every participant should follow their bliss and not be bound to any pre-requisites they did not choose for.
+Participants follow their bliss and are not bound to any pre-requisite rules they did not choose for.
 
 {% hint style="info" %}
 **Rules** are coercive by nature. They are decisions taken by a small group of people that are aimed to affect a greater group. They often come in bulk, they tend to be very difficult to change. You are generally not able to consent to a few rules while rejecting others. As such, it is not advisable to use them.
@@ -24,15 +24,15 @@ There is an experimented list of patters that participant have successfully used
 
 ### The hack-along principles
 
-Any one can come up with values that holds them together, the only dictatorship we allow is the physical reality. Hack-along projects are to be grounded on this physical reality and aimed at aiding people to co-live, co-create, and thrive!
+Although hack-along are non-prescriptive, these are a list of principles that can be used to guide hack-alongs
 
-In general  hack-alongs follow these principles:
+**Natural Law:** our physical reality is the sole dictatorship.
 
-**Consent over Consensus:** we don't need to agree on everything. If 49% disagrees on something, they shouldn't be forced to do it because "the majority" wants the opposite.  
+**Consent over Consensus:** we don't need to agree on everything. If 49% disagrees on something, they shouldn't be forced to do it because "the majority" wants the opposite. Consent means you allow other people to go on with their idea, because you don't have any blocking objection.  
   
 **Non-coercive:** no-one can tell participants what to do and when, unless they consent to that.
 
-**Intrinsically Motivated Contributions:**  every contribution is strengthen by the motivation that only you and your life experience can. Follow your bliss, fix the issue you want to see fixed in the world.
+**Intrinsically Motivated Contributions:**  every contribution is strengthen by the motivation that only the participant's life experience can. Participants should follow their bliss, contributing to the specific issues they want to see fixed in the world.
 
 **Globally Synchronous, Locally Asynchronous:** Everyone choose what and when and where to do it, but we do have specific moments in which everyone show and tells. We align the release cycles at full moon and new moon, which is the same everywhere in the world! ****
 

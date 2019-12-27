@@ -1,2 +1,0 @@
-# MonoLogs, DiaLogs, TriaLogs
-
