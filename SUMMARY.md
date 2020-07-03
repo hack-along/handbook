@@ -4,6 +4,7 @@
 
 ## Hack-Along Patterns <a id="patterns"></a>
 
+* [Crew Formation Patterns](patterns/crew-formation-patterns.md)
 * [Co-Living Patters](patterns/coliving/README.md)
   * [Did this](patterns/coliving/did-this.md)
   * [Offers and Requests](patterns/coliving/offers-and-requests.md)
@@ -28,7 +29,6 @@
 * [Healing Patterns](patterns/healing/README.md)
   * [The Seven A’s](patterns/healing/the-seven-as.md)
   * [The three 7s](patterns/healing/the-three-7s.md)
-* [Crew Formation Patterns](patterns/crew-formation-patterns.md)
 
 ## Tools
 

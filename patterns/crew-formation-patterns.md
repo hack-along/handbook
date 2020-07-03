@@ -4,9 +4,9 @@
 
 A **Crew** is ****a small group up to about 8 people growing trust in each other through emotional & economic reciprocity. Crews are always designed for intimacy, and may also produce an output \(e.g. a software product or an activist campaign\).
 
-How is Crew formed? We're not sure. Rich's original [proposal]() suggests the best way to meet your Crew-mates is in a Congregation: a larger gathering of people with some shared values and medium-high trust. 
+How is Crew formed? We're not sure. Richard suggests the best way to meet your Crew-mates is in a Congregation: a larger gathering of people with some shared values and medium-high trust. 
 
-These are methods for people to support each other in small peer-to-peer mutual aid groups:
+The following is a collection of patterns for people to support each other in small peer-to-peer mutual aid groups:
 
 * **Pods**: personal-and-professional development in small groups, a new practice in development at Enspiral. Comprehensive [resources here](http://handbook.enspiral.com/guides/pods.html). \(For more on this: listen to the [recording of the Crews/Pods session at Enspiral Summer Retreat 2019](https://www.microsolidarity.cc/discussing/enspiral-summer-retreat-feb-2019); and [this update 6 months later](https://anchor.fm/Microsolidarity/episodes/Nati-and-john-talking-about-pods-at-Enspiral-e9giqj).\)
 * [Case Clinic](https://www.presencing.org/resource/tools/case-clinic-desc) is a peer-coaching method from Theory U. It has a practical output \(helping someone with a challenge they're currently facing\), and it tends to produce a lot of insight and interpersonal bonding. It's an excellent place to start, you can get a long way in one meeting.
