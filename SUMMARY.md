@@ -28,6 +28,7 @@
 * [Healing Patterns](patterns/healing/README.md)
   * [The Seven A’s](patterns/healing/the-seven-as.md)
   * [The three 7s](patterns/healing/the-three-7s.md)
+* [Crew Formation Patterns](patterns/crew-formation-patterns.md)
 
 ## Tools
 
