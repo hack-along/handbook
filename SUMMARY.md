@@ -35,5 +35,6 @@
 * [Asynchronous Forum](https://async.hackalong.io)
 * [Collective Knowledge Graph](https://roamresearch.com/#/app/Liminal_Village/graph)
 * [Interspace Communication](https://interspace.chat)
+* [Discord Channel](https://discord.gg/5JAFHT)
 * [Telegram](https://t.me/joinchat/DgOPm1aMD5IUL03tXgfTWw)
 
