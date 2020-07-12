@@ -4,7 +4,7 @@ description: Collaborative hacking patterns to co-create on planet earth
 
 # Hack-Along
 
-We’ve been conditioned to believe in the myth of the survival of the fittest: In this view, each one of us struggles against all the others for scarce resources. The strongest ones survive and pass on their  genes, while the weak loose and die out. Outside of our family environment, this way of thinking seems to be reflected in in every interaction in our so-called civilised society.
+We’ve been conditioned to believe in the myth of the survival of the fittest: In this view, each one of us struggles against all the others for scarce resources. The strongest ones survive and pass on their  genes, while the weak loose and die out. Outside of our family environment, this way of thinking seems to be reflected in every interaction in our so-called civilised society.
 
 However, nature is much more about collaboration than competition. The very concept of an ecosystem brings every piece of the puzzle in an harmonious interconnection.
 
@@ -24,9 +24,9 @@ Therefore, first rule of an hack-along is: we don't talk about the rules of an h
 **Rules** are coercive patterns by nature. They are decisions taken by a small group of people that are aimed to affect a greater group. They often come in bulk, they tend to be very difficult to change. You are generally not able to consent to a few rules while rejecting others. As such, it is not advisable to use them.
 {% endhint %}
 
-There is  an experimented list of "patterns" that participant have successfully used in the past. This handbook functions as a repository of patterns and principles for you to explore and to pick up. Every person, groups and locations running an hack-along chooses which patterns to adopt, or can propose new ones.
+There is however  an experimented list of "patterns" that participant have successfully used in the past. This handbook functions as a repository of these patterns for you to explore and to pick up. Every person, groups and locations running an hack-along chooses which patterns to adopt, or can propose new ones.
 
-For instance, here is an opinionated list of  principles that could be used to guide hack-alongs:
+For instance, here is an opinionated list of values that could be used to guide hack-alongs:
 
 **Consent over Consensus:** we don't need to agree on everything. If 49% disagrees on something, they shouldn't be forced to do it because "the majority" wants the opposite. Consent means you allow other people to go on with their idea, because you don't have any blocking objection.  
   
