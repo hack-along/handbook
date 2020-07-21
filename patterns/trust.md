@@ -37,6 +37,9 @@ As people get to know eachother, deepen relationships and start to rely on eacho
 
 --------
 A nice comparison chart - ideally a "game" or organisation would be multispectrum. 
+<br>
 
 ![TrustMatrix](https://github.com/hack-along/handbook/blob/master/.gitbook/assets/trusttop.png?raw=true)
+<br>
+
 ![TrustMatrix2](https://github.com/hack-along/handbook/blob/master/.gitbook/assets/trustbottom.png?raw=true)
