@@ -4,6 +4,7 @@
 
 ## Hack-Along Patterns <a id="patterns"></a>
 
+* [The Trust Spectrum](pattrns/trust.md)
 * [Crew Formation Patterns](patterns/crew-formation-patterns.md)
 * [Co-Living Patters](patterns/coliving/README.md)
   * [Did this](patterns/coliving/did-this.md)
