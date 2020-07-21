@@ -36,4 +36,7 @@ This would imply lots of parallel play, few roles, no classes and even distribut
 As people get to know eachother, deepen relationships and start to rely on eachother - roles begin to make sense, ideally self selected. Maybe even a few classes. 
 
 --------
-![TrustMatrix](../.gitbook/trusttop.png)
+A nice comparison chart - ideally a "game" or organisation would be multispectrum. 
+
+![TrustMatrix](https://github.com/hack-along/handbook/blob/master/.gitbook/assets/trusttop.png?raw=true)
+![TrustMatrix2](https://github.com/hack-along/handbook/blob/master/.gitbook/assets/trustbottom.png?raw=true)
