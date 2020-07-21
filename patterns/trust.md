@@ -2,7 +2,7 @@
 
 This is a short form of ["The Trust Spectrum"](https://www.raphkoster.com/2018/03/16/the-trust-spectrum/) - which is a great read and highly recommended.
 
-The essence is captured in this image:
+The essence is captured in this image: <br>
 ![Trust](https://www.raphkoster.com/wp-content/uploads/2018/03/Capture-10.png)
 
 The key ingredients to consider are: 
