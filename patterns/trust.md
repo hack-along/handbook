@@ -5,8 +5,8 @@ This is a short form of ["The Trust Spectrum"](https://www.raphkoster.com/2018/0
 The essence is captured in this image: 
 <br>
 
-![Trust](https://www.raphkoster.com/wp-content/uploads/2018/03/Capture-10.png)
-</br>
+![Trust](https://github.com/hack-along/handbook/blob/master/.gitbook/assets/trustlevels.png)
+
 
 The key ingredients to consider are: 
 
