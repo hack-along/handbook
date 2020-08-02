@@ -13,6 +13,7 @@
   * [Ruler of the Kitchen](patterns/coliving/ruler-of-the-kitchen.md)
   * [Appreciative Scoring](patterns/coliving/appreciative-scoring.md)
 * [Co-Creation Patterns](patterns/cocreation/README.md)
+  * [GameShifting](patterns/cocreation/gameshifting.md)
   * [Open Space](patterns/cocreation/open-space.md)
   * [Consent Decision Making](patterns/cocreation/consent-decision-making.md)
   * [Navigate Via Tension](patterns/cocreation/navigate-via-tension.md)
